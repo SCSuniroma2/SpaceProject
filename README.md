@@ -1,15 +1,15 @@
 # SpaceProject
-Progetto Basi di Dati 2018
+Università degli studi di Roma Tor Vergata. Progetto 'Basi di Dati' 2018
 
 ## 1. Prerequisiti
 Per poter utilizzare l'applicazione occorre:
-
-		i.   DBMS PostgresSQL
-		ii.  Eclipse IDE
-		iii. File "DbProject.zip" scaricabile da questo repository
-		iv.  File "dump_completo.sql" scaricabile da questo link: 
-		
-	  https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg
+```
+i.   DBMS PostgresSQL
+ii.  Eclipse IDE
+iii. File "DbProject.zip" scaricabile da questo repository
+iv.  File "dump_completo.sql" scaricabile da questo link: 
+```
+[dump_completo.sql](https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg)
 	  
 ### 2. Installazione
 Prima di avviare l'applicazione è necessario importare il dump del database. E' possibile farlo da terminale digitando:
