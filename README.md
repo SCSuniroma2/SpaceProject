@@ -42,7 +42,7 @@ E' possibile effettuare il login come amministratore inserendo:
 		Password: rossimario
 
 
-
+---
 Si può inoltre partire da un database vuoto e:
 
 	i.   Scaricare file "schema.sql" presente in questo repository
@@ -52,3 +52,9 @@ Si può inoltre partire da un database vuoto e:
 	iii. Eseguire l'import di i) e successivamente di ii) come descritto al punto 2)
 	
 	iv.  Avviare l'applicazione come in 3) e utilizzare le credenziali come in 4)
+	
+	
+## Autori
+* **Cristiano Calicchia**
+* **Gabriele Sanelli**
+* **Flavio Scaccia**
