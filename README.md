@@ -1,9 +1,13 @@
 # SpaceProject
 Progetto Basi di Dati 2018
-1. Per poter utilizzare l'applicazione occorre: 
+1. Per poter utilizzare l'applicazione occorre:
+
 	i.   DBMS PostresSQL
-	ii.  IDE Eclipse
+	
+	ii.  Eclipse IDE
+	
 	iii. File "DbProject.zip" scaricabile da questo repository
+	
 	iv.  File "dump_completo.sql" scaricabile da questo link:  
 		https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg
 
@@ -12,7 +16,10 @@ Progetto Basi di Dati 2018
 		psql -U nome_utente -d nome_database < dump_completo.sql
 
 3. Per avviare l'applicazione procedere come segue:
-	i.   Aprire l'IDE Eclipse
+
+	i.   Aprire Eclipse
+	
+	
 	ii.  Cliccare su 
 	       File
 	       >Open Projects from File System
@@ -32,7 +39,7 @@ Progetto Basi di Dati 2018
 		Password: rossimario
 
 
-Si può inoltre partire da un database vuoto:
+Si può inoltre partire da un database vuoto e:
 	i.   Scaricare file "schema.sql" presente in questo repository
 	ii.  Scaricare file "init_data.sql" presente in questo repository
 	iii. Eseguire l'import di i) e successivamente di ii) come descritto al punto 2)
