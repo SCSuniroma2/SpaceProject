@@ -7,7 +7,7 @@ Per poter utilizzare l'applicazione occorre:
 i.   DBMS PostgresSQL
 ii.  Eclipse IDE
 iii. File "DbProject.zip" scaricabile da questo repository
-iv.  File "dump_completo.sql" scaricabile da questo link: 
+iv.  File "dump_completo.sql" scaricabile da questo link:
 ```
 [dump_completo.sql](https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg)
 	  
@@ -21,7 +21,7 @@ psql -U nome_utente -d nome_database < dump_completo.sql
 Per avviare l'applicazione procedere come segue:
 ```
 i.   Aprire Eclipse	
-ii.  Cliccare su File>Open Projects from File System>Archive>Selezionare il file "DbProject.zip">Mantenere selezionata solo la cartella riferita a 'Eclipse project'>Finish
+ii.  Cliccare su File->Open Projects from File System->Archive->Selezionare il file "DbProject.zip"->Mantenere selezionata solo la cartella riferita a 'Eclipse project'->Finish
 iii. Modificare il file src/controller/DBHandler.java con i vostri parametri di accesso al database	
 iv.  Avviare l'interfaccia eseguendo il file src/main/main.java
 ```
