@@ -2,34 +2,30 @@
 Progetto Basi di Dati 2018
 1. Per poter utilizzare l'applicazione occorre:
 
-	i.   DBMS PostresSQL
+		i.   DBMS PostgresSQL
 	
-	ii.  Eclipse IDE
+		ii.  Eclipse IDE
 	
-	iii. File "DbProject.zip" scaricabile da questo repository
+		iii. File "DbProject.zip" scaricabile da questo repository
 	
-	iv.  File "dump_completo.sql" scaricabile da questo link:  
-		https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg
+		iv.  File "dump_completo.sql" scaricabile da questo link:  
+		
+			https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg
 
 2. Prima di avviare l'applicazione è necessario importare il dump del database.
    E' possibile farlo da terminale digitando:
+   
 		psql -U nome_utente -d nome_database < dump_completo.sql
 
 3. Per avviare l'applicazione procedere come segue:
 
-	i.   Aprire Eclipse	
+		i.   Aprire Eclipse	
 	
-	ii.  Cliccare su 
-	       File
-	       >Open Projects from File System
-	       >Archive
-	       >Selezionare il file "DbProject.zip"
-	       >Mantenere selezionata solo la cartella riferita a 'Eclipse project'
-	       >Finish
+		ii.  Cliccare su File>Open Projects from File System>Archive>Selezionare il file "DbProject.zip">Mantenere selezionata solo la cartella riferita a 'Eclipse project'>Finish
 	       
-	iii. Modificare il file src/controller/DBHandler.java con i vostri parametri di accesso al database
+		iii. Modificare il file src/controller/DBHandler.java con i vostri parametri di accesso al database
 	
-	iv.  Avviare l'interfaccia eseguendo il file src/main/main.java
+		iv.  Avviare l'interfaccia eseguendo il file src/main/main.java
 
 
 4. E' possibile effettuare il login come amministratore inserendo:
