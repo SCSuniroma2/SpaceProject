@@ -1,12 +1,15 @@
 # SpaceProject
 Progetto Basi di Dati 2018
+
+## Prerequisiti
 1. Per poter utilizzare l'applicazione occorre:
-```
-i.   DBMS PostgresSQL
-ii.  Eclipse IDE
-iii. File "DbProject.zip" scaricabile da questo repository
-iv.  File "dump_completo.sql" scaricabile da questo link: * [QUI](https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg)
-```
+
+		i.   DBMS PostgresSQL
+		ii.  Eclipse IDE
+		iii. File "DbProject.zip" scaricabile da questo repository
+		iv.  File "dump_completo.sql" scaricabile da questo link: 
+		
+	  https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg
 
 2. Prima di avviare l'applicazione è necessario importare il dump del database.
    E' possibile farlo da terminale digitando:
