@@ -39,7 +39,7 @@ Username: rossimario
 Password: rossimario
 ```
 
----
+##
 Invece di effettuare il dump completo, si può inoltre utilizzare una demo del database, con informazioni di default:
 ```
 i.   Scaricare file "schema.sql" presente in questo repository	
@@ -98,7 +98,7 @@ Username: rossimario
 Password: rossimario
 ```
 
----
+##
 Instead of doing the full dump, you have the possibility to use a database's demo, with default's informations:
 ```
 i.   Download the "schema.sql" file, placed in this repository
