@@ -1,4 +1,4 @@
-# SpaceProject ![italy](https://cdn1.iconfinder.com/data/icons/famfamfam_flag_icons/ie.png)
+# SpaceProject <img src="https://cdn1.iconfinder.com/data/icons/famfamfam_flag_icons/it.png">
 
 Università degli studi di Roma Tor Vergata. Progetto di 'Basi di Dati' 2018.
 
@@ -57,7 +57,7 @@ iv.  Avviare l'applicazione come in 3) e utilizzare le credenziali come in 4)
 ---
 
 
-# SpaceProject ![uk](https://cdn2.iconfinder.com/data/icons/tsgk-cctld-territories-icons-flags-pack-v---borderless/16/uk.png)
+# SpaceProject <img src="https://cdn1.iconfinder.com/data/icons/ensign-11/512/273_Ensign_Flag_Nation_kingdom-512.png" height="16" width="16">
 
 University of Rome, Tor Vergata. Project made for the exam of 'Basi di Dati' 2018.
 
