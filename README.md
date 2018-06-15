@@ -1,4 +1,5 @@
-# SpaceProject
+# SpaceProject ![italy](https://cdn1.iconfinder.com/data/icons/famfamfam_flag_icons/ie.png)
+
 Università degli studi di Roma Tor Vergata. Progetto di 'Basi di Dati' 2018.
 
 ## 1. Prerequisiti
@@ -56,7 +57,8 @@ iv.  Avviare l'applicazione come in 3) e utilizzare le credenziali come in 4)
 ---
 
 
-# SpaceProject (Eng Version)
+# SpaceProject ![uk](https://cdn2.iconfinder.com/data/icons/tsgk-cctld-territories-icons-flags-pack-v---borderless/16/uk.png)
+
 University of Rome, Tor Vergata. Project made for the exam of 'Basi di Dati' 2018.
 
 ## 1. Prerequisites
