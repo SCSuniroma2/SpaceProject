@@ -49,9 +49,9 @@ iv.  Avviare l'applicazione come in 3) e utilizzare le credenziali come in 4)
 ```	
 	
 ## Autori
-* **Cristiano Calicchia**
-* **Gabriele Sanelli**
-* **Flavio Scaccia**
+* **Cristiano Calicchia** (lufth)
+* **Gabriele Sanelli** (thegabrielesa)
+* **Flavio Scaccia** (flaxalf)
 
 
 ---
@@ -108,6 +108,6 @@ iv.  Launch the application as in 3) and login as in 4)
 ```	
 	
 ## Authors
-* **Cristiano Calicchia**
-* **Gabriele Sanelli**
-* **Flavio Scaccia**
+* **Cristiano Calicchia** (lufth)
+* **Gabriele Sanelli** (thegabrielesa)
+* **Flavio Scaccia** (flaxalf)
