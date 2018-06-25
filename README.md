@@ -67,7 +67,7 @@ To use this application you need:
 i.   DBMS PostgresSQL
 ii.  Eclipse IDE
 iii. "DbProject.zip" file, that can be downloaded from this repository
-iv.  "dump_completo.sql" file, that can be downloaded from the following link:
+iv.  "dump_completo.sql" file, that can be downloaded from the following link
 ```
 [dump_completo.sql](https://drive.google.com/open?id=1NR_LDYoAYL3kECtilMOkYaZC7nlFyEQg)
 	  
